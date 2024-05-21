@@ -7,7 +7,7 @@
 - Output results to a new file - `[command] > [file]` e.g. `git pull > temp.txt`
 
 ## Moving
-- Move folder/file - `mv [file] [destination]`
+- Move or rename folder/file - `mv [file] [destination]`
 
 ## Removing
 - Remove folder/file
