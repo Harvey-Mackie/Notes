@@ -15,3 +15,6 @@
 	- `rmdir [folder]`
 
  
+## Downloading Libraries
+- Homebrew is used for managing packages [Link](https://brew.sh/) 
+	- `brew install tree`
