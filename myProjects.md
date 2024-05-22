@@ -10,4 +10,5 @@
 - Learn Jenkins
 - Learn Event Driven Architechture
 - Learn Domain Driven Design
+- Learn Solution Architchture (book margaret sent)
 
