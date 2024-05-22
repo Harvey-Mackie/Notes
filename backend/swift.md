@@ -1,3 +1,9 @@
+### Types
+
+#### Strings
+- Array of String - `private var selectedDays:Set<String> = ["Fri"]`
+- Join array to singular string - `selectedDays.joined(separator: ",")`
+
 ### **Understanding Views**
 
 - **Preview and Live Editing**: Use **`Command + Option + Enter`** to open the preview pane.
