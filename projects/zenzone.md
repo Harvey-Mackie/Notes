@@ -8,8 +8,8 @@ Focus Zone is a minimalistic productivity app designed to help users reduce dist
 
 
 # Tasks Remaining
-- [ ] Fix Date Time issue on create form
-- [ ] Fix Active Routine Showing even when the day is not active
+- [x] Fix Date Time issue on create form
+- [x] Fix Active Routine Showing even when the day is not active
+- [ ] Feature - Add Routine to Onboarding Flow
 - [ ] Add Break Difficulties
 - [ ] Create Flow Chart of App/Documentation
-- [ ] Feature - Add Routine to Onboarding Flow

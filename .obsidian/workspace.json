@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git.md",
+                "file": "personal/log.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e47ad0dc2e6f93a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/zenzone.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git.md",
+                "file": "personal/log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git.md",
+                "file": "personal/log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git.md"
+                "file": "personal/log.md"
               }
             }
           }
@@ -148,9 +160,12 @@
   },
   "active": "3035301827c67638",
   "lastOpenFiles": [
+    "projects/zenzone.md",
+    "personal/log.md",
+    "personal/plans.md",
+    "git.md",
     "backend/swift/swift.md",
     "backend/swift/xcode.md",
-    "backend/swift",
-    "git.md"
+    "backend/swift"
   ]
 }
