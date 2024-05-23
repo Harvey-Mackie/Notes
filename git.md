@@ -19,42 +19,29 @@ Git is a tool which is used for managing distributed version control. There are 
 	- The question lies in what is most important - **a tidy history or a true representation of the sequence of development**
 
 
-# Cheat Sheat
+# Cheat Sheet
+### Quick Commands
+- Open GitHub repo - `open $(git remote get-url origin)`
 ### **Branch Management**
 
-- **Create and Switch to New Branch:**
+- **Create and Switch to New Branch:** **`git checkout -b feature/1223-branch-name`**
+	- Creates and checks out a new branch based on the current branch.
     
-    **`git checkout -b feature/1223-branch-name`**
-    
-    Creates and checks out a new branch based on the current branch.
-    
-- **Switch to an Existing Branch:**
-    
-    **`git switch feature/123-test`**
-    
-    A modern command to switch branches, replacing **`git checkout`**.
-    
+- **Switch to an Existing Branch or Commit:** **`git switch feature/123-test`**
+	- A modern command to switch branches, replacing **`git checkout`**.
+	- If you go to a commit you enter detached mode. You can exit this by running `git checkout -`
+
 
 ### **Staging Changes**
 
-- **Stage All Modified Files:**
+- **Stage All Modified Files:** - `git add .`
+	- Adds all changed files in the directory to the staging area.
     
-    **`git add .`** 
+- **Stage Specific File or Directory:** - `git add filename.txt`
+	- Adds changes from the specified files or directories to the staging area.
     
-    Adds all changed files in the directory to the staging area.
-    
-- **Stage Specific File or Directory:**
-    
-    **`git add filename.txt`**
-    
-    Adds changes from the specified files or directories to the staging area.
-    
-- **Interactively Stage Parts of Files:**
-    
-    **`git add --patch filename.txt`**
-    
-    Opens an interactive UI to select parts of a file to stage.
-    
+- **Interactively Stage Parts of Files:** - `git add --patch filename.txt`
+	- Opens an interactive UI to select parts of a file to stage.
 
 ### **Committing Changes**
 
