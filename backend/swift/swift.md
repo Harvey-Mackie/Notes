@@ -21,7 +21,14 @@
     }
     
     ```
-    
+
+#### Tips
+##### Adding icons/emojis
+Can find a full list of available emojis/icons at SF Symbols (app installed)
+```swift
+Label("", systemImage: "clock.badge.checkmark.fill")
+```
+
 
 ## **Advanced Swift Concepts**
 
