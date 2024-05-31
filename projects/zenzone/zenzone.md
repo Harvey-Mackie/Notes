@@ -8,6 +8,8 @@ Focus Zone is a minimalistic productivity app designed to help users reduce dist
 
 
 # Tasks Remaining
+- [ ] add abstractions
+	- [ ] database interactions (repository)
 - [ ] Analyse how to test this app
 - [ ] Add Break Difficulties
 - [ ] Create Flow Chart of App/Documentation
