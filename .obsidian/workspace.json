@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/zenzone.md",
+                "file": "myProjects.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/swift/swift.md",
+                "file": "code/backend/swift/swift.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/zenzone.md"
+                "file": "myProjects.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/zenzone.md",
+                "file": "myProjects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/zenzone.md",
+                "file": "myProjects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,15 +165,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e47ad0dc2e6f93a8",
+  "active": "7e873261ae6b1eb6",
   "lastOpenFiles": [
-    "backend/swift/swift.md",
+    "projects/zenzone/zenzone.md",
+    "code",
+    "projects/work.md",
+    "code/git.md",
     "projects/zenzone.md",
+    "code/backend/swift/swift.md",
     "testing/Untitled.md",
     "personal/log.md",
     "personal/plans.md",
-    "git.md",
-    "backend/swift/xcode.md",
-    "backend/swift"
+    "code/backend/swift/xcode.md",
+    "code/backend/swift"
   ]
 }
