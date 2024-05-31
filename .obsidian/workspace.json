@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/myProjects.md",
+                "file": "code/linuxCommands.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/myProjects.md"
+                "file": "code/linuxCommands.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/myProjects.md",
+                "file": "code/linuxCommands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/myProjects.md",
+                "file": "code/linuxCommands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,12 +194,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e47ad0dc2e6f93a8",
+  "active": "7e873261ae6b1eb6",
   "lastOpenFiles": [
+    "projects/myProjects.md",
     "projects/zenzone/zenzone.md",
     "drafts/systemDesignReading",
     "drafts/effectiveEngineer.md",
-    "projects/myProjects.md",
     "drafts",
     "code",
     "projects/work.md",
