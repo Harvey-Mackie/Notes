@@ -11,4 +11,5 @@
 - Learn Event Driven Architechture
 - Learn Domain Driven Design
 - Learn Solution Architchture (book margaret sent)
+- Research PlantUML
 

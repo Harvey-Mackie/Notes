@@ -1,10 +1,21 @@
-### Types
+# Types
 
 #### Strings
 - Array of String - `private var selectedDays:Set<String> = ["Fri"]`
 - Join array to singular string - `selectedDays.joined(separator: ",")`
 
-### **Understanding Views**
+### Constructors
+```swift
+init(cosmic: CosmicSDKSwift = getCosmicClient(),
+        type: String) {
+        self.cosmic = cosmic
+        self.logger = Log.shared
+        self.type = type
+    }
+}
+```
+
+# **Understanding Views**
 
 - **Preview and Live Editing**: Use **`Command + Option + Enter`** to open the preview pane.
 - **Changing Devices in Preview**: Adjust the target device at the top of the Xcode interface to see how your app looks on different devices.
@@ -30,7 +41,12 @@ Label("", systemImage: "clock.badge.checkmark.fill")
 ```
 
 
-## **Advanced Swift Concepts**
+# Testing
+## UI Testing
+To create a UI test, you need to add a new target with the `UI Testing Bundle`. Once created, create a new scheme to run the tests then run the commands `popod deintegrate` and `pod update` to ensure the new target is linked with the pods.
+
+Output - generates two files, `[TARGET]Tests` and `[TARGET]LaunchTests`, make sure they both compile and run before writing any code.
+# **Advanced Swift Concepts**
 
 ### **ObservableObject and State Management**
 
