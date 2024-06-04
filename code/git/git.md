@@ -128,7 +128,7 @@ Git is a tool which is used for managing distributed version control. There are 
 
 - **Soft Reset to Previous Commit:**
     
-    **`git reset --soft HEAD^`**
+    **`git reset --soft HEAD~1`**
     
     Undoes the last commit but keeps the changes in your working directory.
     
