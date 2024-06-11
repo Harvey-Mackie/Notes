@@ -1,1 +1,0 @@
-https://newsletter.ashishps.com/p/system-design-top-15-trade-offs

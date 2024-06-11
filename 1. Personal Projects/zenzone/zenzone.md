@@ -1,10 +1,10 @@
 # TLDR
-Focus Zone is a minimalistic productivity app designed to help users reduce distractions, enhance their concentration, and achieve mindfulness through structured routines, screen time management, and personalized insights
+Focus Zone is a minimalistic productivity app designed to help users reduce distractions,  enhance their concentration, and achieve mindfulness through structured routines, screen time management, and personalised insights
 
 # Technical Implementation
-[Flow Chart]
+[Add Flow Chart]
 
-[Sequence Diagram]
+[Add Sequence Diagram]
 
 ## Abstractions
 - View Models
@@ -20,7 +20,7 @@ MVP
 	- [x] database interactions (repository)
 - [x] Analyse how to test this app
 	- [ ] Test creating a routine
-- [ ] Create Logo 
+- [ ] Create Logo + Website
 - [ ] Create Flow Chart of App/Documentation/Customer Journey
 
 Future
